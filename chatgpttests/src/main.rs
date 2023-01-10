@@ -1,3 +1,5 @@
+// input: can you write code in rust that simulates two particles in a box with gravity using an runge kutta 4 calculation scheme?
+// output: START
 extern crate gnuplot;
 use gnuplot::{Figure, Color};
 use nalgebra::Vector2;
@@ -47,7 +49,8 @@ fn simulate(mut p1: Particle, mut p2: Particle, g: f64, dt: f64, num_steps: usiz
     }
     positions
 }
-
+//output: END
+// ChatGPT also created visualization code in fn main(), but adjustment was needed
 fn main() {
     let g = 1.0;
     let dt = 0.1;
