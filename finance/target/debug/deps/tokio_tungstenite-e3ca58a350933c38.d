@@ -1,0 +1,11 @@
+C:\cleen\nsong\PetProjects\finance\target\debug\deps\tokio_tungstenite-e3ca58a350933c38.rmeta: C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\lib.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\compat.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\connect.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\handshake.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\stream.rs
+
+C:\cleen\nsong\PetProjects\finance\target\debug\deps\libtokio_tungstenite-e3ca58a350933c38.rlib: C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\lib.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\compat.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\connect.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\handshake.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\stream.rs
+
+C:\cleen\nsong\PetProjects\finance\target\debug\deps\tokio_tungstenite-e3ca58a350933c38.d: C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\lib.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\compat.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\connect.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\handshake.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\stream.rs
+
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\lib.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\compat.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\connect.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\handshake.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.11.0\src\stream.rs:

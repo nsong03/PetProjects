@@ -1,0 +1,22 @@
+[package]
+name    = "finance-tests"
+version = "0.1.0"
+authors = [ "Nathan Song <nathansong@berkeley.edu>" ]
+edition = "2021"
+default-run = "realtime"
+
+[workspace]
+members = "tests"
+
+[dependencies]
+yahoo-finance = "0.3.0"
+tokio = { version = "0.2.1", features = ["full"] }
+
+
+[[bin]]
+name = "realtime"
+path = "./realtime.rs"
+
+#[lib]
+#crate-type = ["cdylib", "rlib"]
+#path = "./finance_tests_wasm.rs"

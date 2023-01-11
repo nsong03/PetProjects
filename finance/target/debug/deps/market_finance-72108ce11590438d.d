@@ -1,0 +1,11 @@
+C:\cleen\nsong\PetProjects\finance\target\debug\deps\market_finance-72108ce11590438d.rmeta: C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\lib.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\traits.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\interval.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\bar.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\quote.rs
+
+C:\cleen\nsong\PetProjects\finance\target\debug\deps\libmarket_finance-72108ce11590438d.rlib: C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\lib.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\traits.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\interval.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\bar.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\quote.rs
+
+C:\cleen\nsong\PetProjects\finance\target\debug\deps\market_finance-72108ce11590438d.d: C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\lib.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\traits.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\interval.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\bar.rs C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\quote.rs
+
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\lib.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\traits.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\interval.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\bar.rs:
+C:\cleen\Apps\.cargo\registry\src\github.com-1ecc6299db9ec823\market-finance-0.3.0\src\quote.rs:
